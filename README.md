@@ -1,1 +1,2 @@
-# TRANSLATE-TK-NTER
+# TRANSLATOR-TKINTER
+Translator using python tkinter
